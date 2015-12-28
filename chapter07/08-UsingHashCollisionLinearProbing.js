@@ -1,4 +1,5 @@
-var hashLinearProbing = new HashLinearProbing();
+var HashLinearProbing = require('./07-HashCollisionLinearProbing.js');
+var hashLinearProbing = new HashLinearProbing.HashLinearProbing();
 
 hashLinearProbing.put('Gandalf', 'gandalf@email.com');
 hashLinearProbing.put('John', 'johnsnow@email.com');

@@ -1,3 +1,4 @@
+exports.HashLinearProbing =
 function HashLinearProbing(){
 
     var table = [];
