@@ -1,3 +1,4 @@
+module.exports =
 function Dictionary(){
 
     var items = {};

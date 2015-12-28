@@ -1,3 +1,4 @@
+var Dictionary = require('./01-Dictionaries.js');
 var dictionary = new Dictionary();
 
 dictionary.set('Gandalf', 'gandalf@email.com');
